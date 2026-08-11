@@ -15,6 +15,14 @@ Built for **Stardance**.
 ## Hardware:
 
 - **İn development and to be determined**
+- **Seeed Studio XIAO ESP32-S3**, with its dual core architecture os won't struggle while running every feature
+- **Any round display will work**, I went with the Round Display for Seeed Studio XIAO.
+- **NEO-M9N-00B**, perfect for offline gps.
+- **BMP280**, its a barometer.
+- **BMI270**, motion sensor for auto wake up and auto sleep
+- **3.7V 1000mAh Li-Po**, I went ahead with a pouch battery.
+- **MCP73831-2ACI/MC**, Battery controller for the battery ( duh. )  
+
 
 ----------------------------------
 
