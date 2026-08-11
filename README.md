@@ -14,7 +14,7 @@ Built for **Stardance**.
 
 ## Hardware:
 
-- ** İn development and to be determined **
+- **İn development and to be determined**
 
 ----------------------------------
 
