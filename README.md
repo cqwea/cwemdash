@@ -14,7 +14,7 @@ Built for **Stardance**.
 
 ## Hardware:
 
-- **İn development and to be determined**
+- **İn development and these parts could be replaced or changed**
 - **Seeed Studio XIAO ESP32-S3**, with its dual core architecture os won't struggle while running every feature
 - **Any round display will work**, I went with the Round Display for Seeed Studio XIAO.
 - **NEO-M9N-00B**, perfect for offline gps.
